@@ -1,0 +1,50 @@
+
+http://www.ctump.edu.vn/Default.aspx?tabid=2036
+
+hoc y mat bao nhieu nam
+khi nao nhap hoc
+co ktx khong
+sinh vien hoc may hoc ki
+dong phuc
+bảng tên
+câu lạc bộ
+có sân bóng không
+
+nlu
+# - intent: ask_thoi_gian_nhap_hoc
+#   examples: |
+#     - Thời gian nhập học tại Đại học Y Dược Cần Thơ là khi nào?
+#     - Khi nào thì bắt đầu kỳ nhập học của CTUMP?
+#     - tường tổ chức nhập học vào thời điểm nào trong năm?
+#     - Lịch nhập học cho tân sinh viên tại Đại học Y Dược Cần Thơ là ngày nào?
+#     - Đại học Y Dược Cần Thơ bắt đầu năm học mới vào lúc nào?
+#     - Thời gian làm thủ tục nhập học cho sinh viên mới tại CTUMP?
+#     - CTUMP có công bố lịch nhập học cho năm học mới chưa?
+#     - Kỳ nhập học tại Đại học Y Dược Cần Thơ diễn ra vào tháng mấy?
+#     - Khi nào CTUMP tổ chức tuần lễ sinh hoạt công dân đầu khóa?
+#     - Thời gian cụ thể để tân sinh viên đến nhận lớp tại CTUMP?
+
+
+# - intent: inform
+#   examples: |
+#     - [0939838189](number)
+#     - đây là số điện thoại của tôi [0939059009](number)
+#     - bạn có thể gọi tôi thông qua số này [0918398775](number)
+#     - số liên lạc dây nè [0123456789](number)
+
+#     - email tôi là [loc@gmail.com](email)
+#     - đây là địa chỉ mail liên hệ [phuong@student.ctu.edu.vn](email)
+#     - [tien@gmail.com](email)
+#     - email làm việc là [hoanglam@gmail.com](email)
+
+test gitignore file
+
+```````````````````````````````````````
+
+Học phí ngành - Chương trình đào tạo các ngành - Thông tin khoa phòng ban
+
+[hocphi]                [ctdt]                      [thongtin]
+
+
+
+- loại đào tạo

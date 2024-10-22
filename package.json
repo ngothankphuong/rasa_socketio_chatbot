@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "php-express": "^0.0.3",
+    "vietnamese-stopwords": "^0.0.2"
+  }
+}

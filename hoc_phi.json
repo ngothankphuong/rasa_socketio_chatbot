@@ -1,0 +1,239 @@
+{
+    "daihoc":{
+       "he_chinhquy":{
+          "chinhquy":{
+             "ngành Y Khoa":{
+                "hocphi":"924.300",
+                "ctdt":"CTDT Y KHOA"
+             },
+             "ngành Răng hàm mặt":{
+                "hocphi":"924.300",
+                "ctdt":"CTDT rang_ham_mat"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"794.300",
+                "ctdt":"CTDT y_hoc_du_phong"
+             },
+             "ngành Y học cổ truyền":{
+                "hocphi":"794.300",
+                "ctdt":"CTDT y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"950.300",
+                "ctdt":"CTDT duoc_si_dai_hoc"
+             },
+             "ngành Điều dưỡng":{
+                "hocphi":"752.300",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Y tế công cộng":{
+                "hocphi":"635.300",
+                "ctdt":"CTDT y_te_cong_cong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"752.300",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             },
+             "ngành Hộ sinh":{
+                "hocphi":"752.300",
+                "ctdt":"CTDT ho_sinh"
+             },
+             "ngành Kỹ thuật hình ảnh y học":{
+                "hocphi":"752.300",
+                "ctdt":"CTDT kt_hinhanh_y_hoc"
+             }
+          },
+          "nhu_cau_xh":{
+             "ngành Y Khoa":{
+                "hocphi":"1.363.700",
+                "ctdt":"CTDT Y KHOA"
+             },
+             "y_khoa_nganh_hiem":{
+                "hocphi":"1.363.700",
+                "ctdt":"CTDT Y KHOA nganh hiem"
+             },
+             "ngành Răng hàm mặt":{
+                "hocphi":"1.363.700",
+                "ctdt":"CTDT rang_ham_mat"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"1.253.200",
+                "ctdt":"CTDT y_hoc_du_phong"
+             },
+             "ngành Y học cổ truyền":{
+                "hocphi":"1.253.200",
+                "ctdt":"CTDT y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"1.402.700",
+                "ctdt":"CTDT duoc_si_dai_hoc"
+             },
+             "ngành Điều dưỡng":{
+                "hocphi":"1.069.900",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "y_te_cong_cong":{
+                "hocphi":"1.025.700",
+                "ctdt":"CTDT y_te_cong_cong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"1.069.900",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             },
+             "ngành Hộ sinh":{
+                "hocphi":"1.069.900",
+                "ctdt":"CTDT ho_sinh"
+             },
+             "ngành Kỹ thuật hình ảnh y học":{
+                "hocphi":"1.069.900",
+                "ctdt":"CTDT kt_hinhanh_y_hoc"
+             }
+          },
+          "cu_tuyen":{
+             "ngành Đa khoa":{
+                "hocphi":"835.900",
+                "ctdt":"ctdt dk"
+             },
+             "ngành Răng hàm mặt":{
+                "hocphi":"835.900",
+                "ctdt":"CTDT rang_ham_mat"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"802.100",
+                "ctdt":"CTDT y_hoc_du_phong"
+             },
+             "ngành Y học cổ truyền":{
+                "hocphi":"802.100",
+                "ctdt":"CTDT y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"660.000",
+                "ctdt":"CTDT duoc_si_dai_hoc"
+             },
+             "ngành Điều dưỡng":{
+                "hocphi":"780.000",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"780.000",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             }
+          },
+          "qt_tiengviet":{
+             "ngành Y Khoa":{
+                "hocphi":"1.363.700",
+                "ctdt":"CTDT Y KHOA"
+             },
+             "ngành Răng hàm mặt":{
+                "hocphi":"1.363.700",
+                "ctdt":"CTDT rang_ham_mat"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"1.253.200",
+                "ctdt":"CTDT y_hoc_du_phong"
+             },
+             "ngành Y học cổ truyền":{
+                "hocphi":"1.253.200",
+                "ctdt":"CTDT y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"1.402.700",
+                "ctdt":"CTDT duoc_si_dai_hoc"
+             }
+          }
+       },
+       "he_lienthong":{
+          "lt_chinhquy":{
+             "ngành Y Khoa":{
+                "hocphi":"921.700",
+                "ctdt":"CTDT lt chinh quy y khoa"
+             },
+             "ngành Y học cổ truyền":{
+                "hocphi":"793.000",
+                "ctdt":"CTDT lt chinhquy y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"950.300",
+                "ctdt":"CTDT lt chinh quy duoc_si_dai_hoc"
+             },
+             "duoc_si_cao_dang":{
+                "hocphi":"950.300",
+                "ctdt":"CTDT lt chinh quy duoc_si_cao-dang"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"793.000",
+                "ctdt":"CTDT lt chinh quy y_hoc_du_phong"
+             }
+          },
+          "lt_nhu_cau_xh":{
+             "ngành Y Khoa":{
+                "hocphi":"1.405.300",
+                "ctdt":"CTDT lt nhucau xh y khoa"
+             },
+             "ngành Y học cổ truyền":{
+                "ten":"Đào tạo liên thông theo nhu cầu xã hội Bác sĩ Y khoa",
+                "hocphi":"1.316.900",
+                "ctdt":"CTDT lt  y_hoc_co_truyen"
+             },
+             "ngành Dược":{
+                "hocphi":"1.432.600",
+                "ctdt":"CTDT lt  duoc_si_dai_hoc"
+             },
+             "duoc_si_cao_dang":{
+                "hocphi":"1.432.600",
+                "ctdt":"CTDT lt duoc_si_cao_dang"
+             },
+             "ngành Y học dự phòng":{
+                "hocphi":"1.316.900",
+                "ctdt":"CTDT lt y_hoc_du_phong"
+             },
+             "y_khoa_campuchia":{
+                "hocphi":"1.405.300",
+                "ctdt":"CTDT lt nhucau xh y khoa campuchia"
+             }
+          }
+       },
+       "he_vuahoc_vualam":{
+          "trungcap_dh_chinhquy":{
+             "ngành Điều dưỡng":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             }
+          },
+          "trungcap_dh_nhu_cau_xh":{
+             "ngành Điều dưỡng":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             }
+          },
+          "caodang_dh_chinhquy":{
+             "ngành Điều dưỡng":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             }
+          },
+          "caodang_dh_nhucau_xh":{
+             "ngành Điều dưỡng":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT dieu_duong"
+             },
+             "ngành Kỹ thuật xét nghiệm y học":{
+                "hocphi":"983.450",
+                "ctdt":"CTDT kt_xn_y_hoc"
+             }
+          }
+       }
+    }
+ }

@@ -1,0 +1,178 @@
+
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu vậy]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau vay]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"} vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"} vay
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu vậy]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau vay]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa chỉ ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia chi o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa điểm ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia diem o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"} nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"} nhi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"} vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"} vay
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"} thế
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"} the
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"} vậy nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"} vay nhi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở chỗ nào]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nam [o cho nao]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la gi
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la gi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở [vị trí nào]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o vi tri nao]{"entity":"ask", "role":"where"}
+[Vị trí]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Vi tri]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm o đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nắm o đâu
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở chỗ nào
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o cho nao
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở chỗ nào
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o cho nao
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa chỉ ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia chi o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa điểm ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia diem o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"} nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"} nhi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"} vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"} vay
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"}{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu thế]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau the]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu vậy nhỉ]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau vay nhi]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở chỗ nào]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o cho nao]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la gi
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la gi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở vị trí nào]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o vi tri nao]{"entity":"ask", "role":"where"}
+[Vị trí]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Vi tri]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm o đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nắm o đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa chỉ ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia chi o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa điểm ở đâu]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [dia diem o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở đâu nhỉ]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o dau nhi]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [ở chỗ nào vậy]{"entity":"ask", "role":"where"}
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [o cho nao vay]{"entity":"ask", "role":"where"}
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu]{"entity":"ask", "role":"where"}
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau]{"entity":"ask", "role":"where"}
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu thế
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau the
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu vậy nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau vay nhi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nằm ở chỗ nào
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nam o cho nao
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} toa lac o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} tọa lạc ở vị trí nào
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} toa lac o vi tri nao
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} địa chỉ ở vị trí nào
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} dia chi o vi tri nao
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [địa chỉ ở đâu] vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} dia chi o dau vay
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là như thế nào
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la nhu the nao
+[Địa điểm]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là ở đâu
+[Dia diem]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} tọa lạc ở đâu vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} toa lac o dau vay
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} tọa lạc ở chỗ nào
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} toa lac o cho nao
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở vị trí nào
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o vi tri nao
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu thế
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau the
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở chỗ nào vậy
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o cho nao vay
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu thế nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau the nhi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nằm ở đâu] vậy nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} [nam o dau] vay nhi
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể là ở đâu
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the la o dau
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể là gì
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the la gi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nằm ở vị trí nào vậy
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} nam o vi tri nao vay
+[Vị trí]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể ở đâu
+[Vi tri]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} địa chỉ cụ thể là gì
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} dia chi cu the la gi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở chỗ nào cụ thể
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} toa lac o cho nao cu the
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì cụ thể
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} la gi cu the
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể là gì
+[Dia diem]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the la gi
+[Địa chỉ]{"entity":"ask", "role":"where"} [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể là ở đâu
+[Dia chi]{"entity":"ask", "role":"where"} [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the la o dau
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể ở đâu
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the o dau
+[Địa chỉ]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cụ thể là gì
+[Dia chi]{"entity":"ask", "role":"where"} cua [khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} cu the la gi
+[Khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} ở đâu cụ thể nhỉ
+[Khoa duoc]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} o dau cu the nhi
+[Địa điểm]{"entity":"ask", "role":"where"} của [khoa dược]{"entity":"khoa_phong", "role":"ten_khoa_phong", "value":"khoa Dược"} là gì cụ thể

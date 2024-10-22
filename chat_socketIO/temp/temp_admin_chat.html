@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ADMIN</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/admin_chat.css">
+</head>
+
+<body>
+    <div class="content-chat">
+        <div class="content-chat-user">
+            <div class="head-search-chat">
+                <h4 class="text-center">Chat Finder</h4>
+            </div>
+
+            <div class="search-user mt-30">
+                <input id="search-input" type="text" placeholder="Search..." name="search" class="search" />
+                <span>
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </span>
+            </div>
+
+            <div class="list-search-user-chat mt-20">
+                <!-- list chat người thứ nhất -->
+                <!-- <div class="user-chat" data-username="Maria Dennis">
+                    <div class="user-chat-img">
+                        <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <div class="offline"></div>
+                    </div>
+
+                    <div class="user-chat-text">
+                        <p class="mt-0 mb-0"><strong>Maria Dennis</strong></p>
+                        <small>Hi, how are you?</small>
+                    </div>
+                </div> -->
+
+                <!-- list chat người thứ 2 -->
+                <!-- <div class="user-chat" data-username="Jorge Harrinson">
+                    <div class="user-chat-img">
+                        <img src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <div class="online"></div>
+                    </div>
+
+                    <div class="user-chat-text">
+                        <p class="mt-0 mb-0"><strong>Jorge Harrinson</strong></p>
+                        <small>Hi, how are you?</small>
+                    </div>
+                </div> -->
+
+                <!-- list chat người thứ 3 -->
+                <!-- <div class="user-chat" data-username="Carla Terry">
+                    <div class="user-chat-img">
+                        <img src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <div class="offline"></div>
+                    </div>
+
+                    <div class="user-chat-text">
+                        <p class="mt-0 mb-0"><strong>Carla Terry</strong></p>
+                        <small>Hi, how are you?</small>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+
+        <!-- Đoạn chat người thứ nhất -->
+        <div class="content-chat-message-user" data-username="Maria Dennis">
+
+            <!-- header khung chat -->
+            <div class="head-chat-message-user">
+                <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    alt="" />
+                <div class="message-user-profile">
+                    <p class="mt-0 mb-0 text-white"><strong>Maria Dennis</strong></p>
+                    <small class="text-white">
+                        <p class="offline mt-0 mb-0"></p>
+                        Offline
+                    </small>
+                </div>
+            </div>
+
+            <!-- Nội dung đoạn chat -->
+            <div class="body-chat-message-user chat-container">
+                <!-- tin nhắn của user -->
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Maria Dennis</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <!-- tin nhắn của admin -->
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+
+                <!-- tin nhắn của user -->
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Maria Dennis</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <!-- tin nhắn của admin -->
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+            </div>
+            <!-- ########## form nhập đoạn chat ######### -->
+            <form action="" id="form-chat">
+                <div class="footer-chat-message-user">
+                    <div class="message-user-send">
+                        <input autocomplete="off" id="input-chat" type="text" placeholder="Aa" />
+                    </div>
+                    <button type="button">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <!-- đoạn chat người thứ 2 -->
+        <!-- <div class="content-chat-message-user" data-username="Jorge Harrinson">
+            <div class="head-chat-message-user">
+                <img src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    alt="" />
+                <div class="message-user-profile">
+                    <p class="mt-0 mb-0 text-white"><strong>Jorge Harrinson</strong></p>
+                    <small class="text-white">
+                        <p class="online mt-0 mb-0"></p>
+                        Online
+                    </small>
+                </div>
+            </div>
+            <div class="body-chat-message-user">
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Jorge Harrinson</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Jorge Harrinson</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-chat-message-user">
+                <div class="message-user-send">
+                    <input type="text" placeholder="Aa" />
+                </div>
+                <button type="button">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
+            </div>
+        </div> -->
+
+        <!-- đoạn chat thứ 3 -->
+        <!-- <div class="content-chat-message-user" data-username="Carla Terry">
+            <div class="head-chat-message-user">
+                <img src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    alt="" />
+                <div class="message-user-profile">
+                    <p class="mt-0 mb-0 text-white"><strong>Carla Terry</strong></p>
+                    <small class="text-white">
+                        <p class="offline mt-0 mb-0"></p>
+                        Offline
+                    </small>
+                </div>
+            </div>
+            <div class="body-chat-message-user">
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Carla Terry</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+
+                <div class="message-user-left">
+                    <div class="message-user-left-img">
+                        <img src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                        <p class="mt-0 mb-0"><strong>Carla Terry</strong></p>
+                        <small>mié 17:59</small>
+                    </div>
+                    <div class="message-user-left-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+                <div class="message-user-right">
+                    <div class="message-user-right-img">
+                        <p class="mt-0 mb-0"><strong>Luis Angel Solano Rivera</strong></p>
+                        <small>mié 17:59</small>
+                        <img src="https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="" />
+                    </div>
+                    <div class="message-user-right-text">
+                        <strong>Hola, ¿Cómo estás?</strong>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-chat-message-user">
+                <div class="message-user-send">
+                    <input type="text" placeholder="Aa" />
+                </div>
+                <button type="button">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
+            </div>
+        </div> -->
+    </div>
+
+    <!-- ############ IMPORT SOCKET ########### -->
+    <script src="/socket.io/socket.io.js"></script>
+
+    <!-- script giao diện -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const userChats = document.querySelectorAll(".user-chat");
+            const chatMessages = document.querySelectorAll(
+                ".content-chat-message-user"
+            );
+
+            userChats.forEach((userChat) => {
+                userChat.addEventListener("click", () => {
+                    const selectedUsername = userChat.getAttribute("data-username");
+
+                    chatMessages.forEach((chatMessage) => {
+                        const messageUsername = chatMessage.getAttribute(
+                            "data-username");
+
+                        if (messageUsername === selectedUsername) {
+                            chatMessage.classList.add("active");
+                        } else {
+                            chatMessage.classList.remove("active");
+                        }
+                    });
+
+                    userChats.forEach((chat) => {
+                        chat.classList.remove("active");
+                    });
+                    userChat.classList.add("active");
+                });
+            });
+
+            // Activar el primer elemento user-chat inicialmente
+            userChats[0].classList.add("active");
+            chatMessages[0].classList.add("active");
+        });
+    </script>
+
+    <!-- <script type="text/javascript" src="../js/admin_chat.js"></script> -->
+    <script type="text/javascript" src="../js/admin_chat.js"></script>
+
+    <!-- jquery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</body>
+</html>
