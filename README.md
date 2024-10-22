@@ -10,3 +10,9 @@ py -m venv venv_rasa
 ```sh
 pip install rasa
 ```
+
+## NodeJS
+```sh
+node -v
+```
+v18.16.0
